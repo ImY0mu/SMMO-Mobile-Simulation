@@ -1,6 +1,6 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.0.6-beta](https://bit.ly/3bnyWqd)
+## Latest Version: [0.0.8-beta](https://bit.ly/30v7Irz)
 
 ### Features:
 - V8.0 design
@@ -13,6 +13,19 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.0.8-beta [March 10 2021]
+- Added page loader
+- Added new keybinds
+- Keybind UI changes
+- Added top navigation to suggestions page
+- Reworked how top navigation is handled - should fix most of the bugs with top navigation when going back in history
+- Fixed leaderboards top navigation bug
+#### 0.0.7-beta [March 8 2021]
+- You can now send message by pressing enter
+- Made some changes to keybinds UI
+- Made some fixes to footer UI
+- Changed the minimum height of window
+- Fixed a bug in keybind menu
 #### 0.0.6-beta [March 7 2021]
 - Reworked keybinds - they now support additional mouse buttons
 - UI changes to keybinding menu
