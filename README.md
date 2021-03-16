@@ -1,6 +1,6 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.0.9-beta](https://bit.ly/30v7Irz)
+## Latest Version: [0.1.0-beta](https://bit.ly/30PCsE2)
 
 ### Features:
 - V8.0 design
@@ -13,6 +13,10 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.1.0-beta [March 16 2021]
+- Fixed profile tabs bug
+- Fixed order of collectibles tabs
+- Fixed verification at quests page
 #### 0.0.9-beta [March 14 2021]
 - Added credits
 - Fixed CTRL+R bug
