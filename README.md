@@ -13,6 +13,15 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.1.4-beta [April 09 2021]
+- Implemented guild tabs
+- Fixed bug where footer bar was clickable when hidden
+- Added awards option to profile menu
+- Fixed (probably) bug where you went twice back in history due to clicking on button
+#### 0.1.2-beta [March 24 2021]
+- Fixed profile tab bug after commenting
+#### 0.1.1-beta [March 23 2021]
+- Fixed collection tab bug
 #### 0.1.0-beta [March 16 2021]
 - Fixed profile tabs bug
 - Fixed order of collectibles tabs
