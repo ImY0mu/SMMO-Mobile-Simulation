@@ -1,6 +1,6 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.1.0-beta](https://bit.ly/30PCsE2)
+## Latest Version: [0.1.4-beta](https://bit.ly/3uDrY7v)
 
 ### Features:
 - V8.0 design
