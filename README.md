@@ -1,6 +1,6 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.1.4-beta](https://bit.ly/3uDrY7v)
+## Latest Version: [0.1.6-beta](https://bit.ly/3t9Z9yZ)
 
 ### Features:
 - V8.0 design
@@ -13,6 +13,11 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.1.5-beta [April 11 2021]
+- Hotfix of chat integration
+#### 0.1.5-beta [April 111 2021]
+- Small App bar changes
+- Chat integration -> if you have the test version of chat client (1.0.0), the chat will now open links in this app when it is running.
 #### 0.1.4-beta [April 09 2021]
 - Implemented guild tabs
 - Fixed bug where footer bar was clickable when hidden
