@@ -1,6 +1,6 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.2.0-beta](https://bit.ly/3hlRnib)
+## Latest Version: [0.2.1-beta](https://bit.ly/3yv7fVm)
 
 ### Features:
 - V8.0 design
@@ -13,6 +13,8 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.2.1-beta [July 07 2021]
+- Fixed bug at chat
 #### 0.2.0-beta [July 07 2021]
 - Fixed bug at harvesting (not sure if it is gonna fully work)
 #### 0.1.9-beta [July 07 2021]
