@@ -1,6 +1,6 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.1.6-beta](https://bit.ly/3t9Z9yZ)
+## Latest Version: [0.1.9-beta](https://bit.ly/3AAHZil)
 
 ### Features:
 - V8.0 design
@@ -13,7 +13,18 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
-#### 0.1.5-beta [April 11 2021]
+
+#### 0.1.9-beta [July 07 2021]
+- Fixed chat message backgrounds
+- Fixed chat sending message twice on Enter key press
+- Fixed diamond store bug
+- Fixed auto update popup bug
+#### 0.1.8-beta [June 23 2021]
+- Fixed bug where suggestions category did not open in DBs
+#### 0.1.7-beta [May 04 2021]
+- Launcher updated to new design
+- Guild PvP tool integration - communicates with Guild PvP tool made by me
+#### 0.1.6-beta [April 11 2021]
 - Hotfix of chat integration
 #### 0.1.5-beta [April 111 2021]
 - Small App bar changes
