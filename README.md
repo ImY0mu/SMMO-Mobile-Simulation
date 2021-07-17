@@ -1,6 +1,7 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.2.1-beta](https://bit.ly/3yv7fVm)
+### [Download the latest version](https://bit.ly/3y08UTb)
+## Latest Version: 0.2.3-beta 
 
 ### Features:
 - V8.0 design
@@ -13,6 +14,13 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+### More detailed patch notes are included in the client.
+#### 0.2.3-beta [July 07 2021]
+- Multiple UI changes
+- Player information is now being updated when you leave NPC encounter or harvesting
+- Added warning to page where you purchase diamonds
+#### 0.2.2-beta [July 07 2021]
+- Fixed verification at Quests page
 #### 0.2.1-beta [July 07 2021]
 - Fixed bug at chat
 #### 0.2.0-beta [July 07 2021]
