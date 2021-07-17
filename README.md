@@ -15,7 +15,7 @@
 
 ## Patch notes
 ### More detailed patch notes are included in the client.
-#### 0.2.3-beta [July 07 2021]
+#### 0.2.3-beta [July 17 2021]
 - Multiple UI changes
 - Player information is now being updated when you leave NPC encounter or harvesting
 - Added warning to page where you purchase diamonds
