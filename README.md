@@ -1,7 +1,7 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-### [Download the latest version](https://bit.ly/3y08UTb)
-## Latest Version: 0.2.3-beta 
+### [Download the latest version](https://bit.ly/36T1wwB)
+## Latest Version: 0.2.4-beta 
 
 ### Features:
 - V8.0 design
@@ -15,6 +15,8 @@
 
 ## Patch notes
 ### More detailed patch notes are included in the client.
+#### 0.2.4-beta [July 19 2021]
+- Updated the client to Mike's chat changes
 #### 0.2.3-beta [July 17 2021]
 - Multiple UI changes
 - Player information is now being updated when you leave NPC encounter or harvesting
