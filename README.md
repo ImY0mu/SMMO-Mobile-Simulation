@@ -15,7 +15,7 @@
 
 ## Patch notes
 ### More detailed patch notes are included in the client.
-#### 0.2.4-beta [July 22 2021]
+#### 0.2.5-beta [July 22 2021]
 - Some UI changes
 - Finally added some Settings to the client -> suggestions are open!
 - Implemented new feature -> Preview Avatar (in bigger size or different color) from Chat
