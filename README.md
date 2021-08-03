@@ -1,7 +1,7 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-### [Download the latest version](https://bit.ly/37e6PY1)
-## Latest Version: 0.2.6-beta 
+### [Download the latest version](https://bit.ly/2VtQhby)
+## Latest Version: 0.3.0-beta 
 
 ### Features:
 - V8.0 design
@@ -15,9 +15,10 @@
 
 ## Patch notes
 ### More detailed patch notes are included in the client.
-#### 0.2.6-beta [July 25 2021]
-- Implemented basic analytics - opt in on first start up or in settings
-- Fixed some mistakes in code
+#### 0.3.0-beta [Aug 03 2021]
+- This update mainly focuses to make the client more similar to the Android App
+- UI changes
+- Bug fixes
 #### 0.2.5-beta [July 22 2021]
 - Some UI changes
 - Finally added some Settings to the client -> suggestions are open!
