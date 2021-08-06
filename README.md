@@ -1,7 +1,7 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-### [Download the latest version](https://bit.ly/3Agjy94)
-## Latest Version: 0.3.1-beta 
+### [Download the latest version](https://bit.ly/3lBybPU)
+## Latest Version: 0.3.2-beta 
 
 ### Features:
 - Hotkeys
@@ -14,7 +14,10 @@
 
 ## Patch notes
 ### More detailed patch notes are included in the client.
-#### 0.3.1-beta [Aug 0 2021]
+#### 0.3.2-beta [Aug 06 2021]
+- Battle arena hotfix
+- Preparation for a new feature "Step Mode"
+#### 0.3.1-beta [Aug 05 2021]
 - Small bug fixes
 - Small UI changes
 - Battle arena leveling up after combat reverted back prio 0.3.0
