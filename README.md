@@ -1,7 +1,7 @@
 # SMMO-Mobile
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-### [Download the latest version](https://bit.ly/3lBybPU)
-## Latest Version: 0.3.2-beta 
+### [Download the latest version](https://bit.ly/3AkZYZg)
+## Latest Version: 0.3.3-beta 
 
 ### Features:
 - Hotkeys
@@ -14,6 +14,10 @@
 
 ## Patch notes
 ### More detailed patch notes are included in the client.
+#### 0.3.3-beta [Aug 07 2021]
+- Implemented swipe down while holding right button to refresh the page
+- Implemented new Step Mode -> click on 'Travel' icon in bottom menu when in Travel page
+- Preparation for a feature that may or may not appear at some point
 #### 0.3.2-beta [Aug 06 2021]
 - Battle arena hotfix
 - Preparation for a new feature "Step Mode"
